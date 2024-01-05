@@ -1,5 +1,3 @@
-# EEG-Based-Diagnostics-Classification-of-Neurological-Patterns-using-ML
-
 # Enhanced Epilepsy Diagnosis Using EEG Data and CNN
 
 ## Overview
